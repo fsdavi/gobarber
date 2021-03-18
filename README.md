@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/davisfreire/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-%23FF9000"></a>
+	<a href="https://www.linkedin.com/in/davisfreire/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Davi%20Freire-%23FF9000"></a>
   <a href="https://github.com/fsdavi/gobarber/blob/master/README.md"><img alt="GitHub" src="https://img.shields.io/github/license/fsdavi/gobarber?color=%23FF9000"></a>
 </p>
 
