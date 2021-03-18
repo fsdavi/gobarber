@@ -7,7 +7,7 @@
   <a href="https://github.com/fsdavi/gobarber/blob/master/README.md"><img alt="GitHub" src="https://img.shields.io/github/license/fsdavi/gobarber?color=%23FF9000"></a>
 </p>
 
-<img alt="Mockup" src=".githu/mockup.png">
+<img alt="Mockup" src=".github/mockup.png">
 
 ## 👨🏻‍💻 Hi everyone, I made some changes here
 
