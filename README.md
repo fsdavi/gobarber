@@ -11,11 +11,10 @@
 
 ## 👨🏻‍💻 Hi everyone, I made some changes here
 
-To make this project more organized, I moved the applications **(rest api, web client, mobile client)** to 3 different repositories.
+To make this project more organized, I moved the applications **(web client, mobile client)** to 2 different repositories.
 
 Here are the links to them
 
-- [REST API](https://github.com/fsdavi/gobarber-api)
 - [Web client](https://github.com/fsdavi/gobarber-web)
 - [Mobile client](https://github.com/fsdavi/gobarber-mobile)
 
